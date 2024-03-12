@@ -45,7 +45,7 @@ acceder a los siguientes datos:
 <p align=center>  <img src = 'img\Python_logo_and_wordmark.svg.png' style="width:300px"> <img src='img\Sql_data_base_with_logo.png' style = 'width:200px' > <img src='img\Pandas_logo.svg.png' style = 'width:300px'>  <img src='img\2560px-NumPy_logo_2020.svg.png' style = 'width:300px'> <img src='img\seaborn.png' style = 'width:300px'> <img src='img\matplot_title_logo.png' style ='width:300px'> </p>
 
 
-## Información sobre las librerias y la ejección del código
+## Información sobre las librerias
 
 ### Versiones de los modulos/librerias 
 
