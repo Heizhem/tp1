@@ -7,7 +7,7 @@ Los temas evaluados, de la materia, son:
 - Modelos relacionales
 - Calidad de los datos
 - Manipulación y limpeza de los datos
-- Analisis y visualizacion de los datos
+- Análisis y visualización de los datos
 
 ## Sobre el Proyecto
 
@@ -38,7 +38,7 @@ acceder a los siguientes datos:
 
 ### Descripción de los archivos
 
-- tp1.pdf: es el informe del proyecto, tanto el analisis como las concluciones realizadas en el mismo.
+- tp1.pdf: es el informe del proyecto, tanto el analisis como las concluciones realizadas.
 - tp1.py: codigo utilizado para el analisis de los datos.
 
 ### Descripción de las carpetas
