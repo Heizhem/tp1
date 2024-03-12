@@ -14,7 +14,7 @@ Comercio Internacional y Culto.
 
 - PBI per cápita de los países (PBI en inglés es GDP, por Gross Domestic Product). Se puede obtener del sitio del Banco Mundial: https://data.worldbank.org/indicator/NY.GDP.PCAP.CD, descargando los csv y accediendo al archivo API_NY.GDP.PCAP.CD_DS2_en_csv_v2_6298251.csv
 
-<center> <img src='img\descarga.png' style = 'width:300px'> </center>
+<div style="text-align:center"><img src='img\descarga.png' style = 'width:300px'></div>
 
 - Representaciones Argentinas. El responsable de estas fuentes de datos es el actual
 Ministerio de Relaciones Exteriores, Comercio Internacional y Culto, y pueden ser obtenidas
@@ -25,7 +25,7 @@ acceder a los siguientes datos:
     - Datos completos de las sedes
     - Datos completos de las secciones de las sedes
 
-<center> <img src='img\min_relac.exter.y.culto.jpg' style = 'width:300px' > </center>
+<div style="text-align:center"> <img src='img\min_relac.exter.y.culto.jpg' style = 'width:300px' > </div>
 
 ## Información del Repositorio
 
