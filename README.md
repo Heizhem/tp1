@@ -44,3 +44,20 @@ acceder a los siguientes datos:
 ## Stack
 <p align=center>  <img src = 'img\Python_logo_and_wordmark.svg.png' style="width:300px"> <img src='img\Sql_data_base_with_logo.png' style = 'width:200px' > <img src='img\Pandas_logo.svg.png' style = 'width:300px'>  <img src='img\2560px-NumPy_logo_2020.svg.png' style = 'width:300px'> <img src='img\seaborn.png' style = 'width:300px'> <img src='img\matplot_title_logo.png' style ='width:300px'> </p>
 
+
+## Información sobre las librerias y la ejección del código
+
+### Versiones de los modulos/librerias 
+
+inline_sql==0.1.2<br>
+matplotlib==3.7.1<br>
+numpy==1.25.2<br>
+pandas==1.5.3<br>
+seaborn==0.13.1
+
+### Comando para intalar todas las librerias:
+Luego de clonar el repositorio.
+```
+pip install -r requirements.txt
+```
+**Aconsejamos usar un entorno virtual.**
