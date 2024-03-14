@@ -3,10 +3,10 @@
 En este repositorio se presenta el primer Trabajo Práctico para la materia Laboratorio de Datos de la carrera de Licenciatura en Ciencia de Datos.
 
 Los temas evaluados, de la materia, son:
-- Diangramas de Entidad-Relación (DER)
+- Diagramas de Entidad-Relación (DER)
 - Modelos relacionales
 - Calidad de los datos
-- Manipulación y limpeza de los datos
+- Manipulación y limpieza de los datos
 - Análisis y visualización de los datos
 
 ## Sobre el Proyecto
